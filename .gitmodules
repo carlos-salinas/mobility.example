@@ -1,0 +1,3 @@
+[submodule "mobility.example.frontend"]
+	path = mobility.example.frontend
+	url = git@git.rhohub.com:casalinas/mobility-example-frontend.git
